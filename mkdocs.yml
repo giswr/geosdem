@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/giswr/geosdem/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/folium.ipynb
     - API Reference:
           - geosdem module: geosdem.md
           - common module: common.md
